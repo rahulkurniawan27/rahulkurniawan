@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rahul kurniawan</h1>
-<img align="center" alt="web-developer" width="100%" src="https://img.freepik.com/premium-vector/programmer-developer-engineer-with-laptop-sitting-office-desk-holding-pen-while-coding-developing-concept-illustration_270158-427.jpg?w=740"></img>
+<img align="center" alt="web-developer" width="100%" src="https://img.freepik.com/premium-vector/programmer-developer-engineer-with-laptop-sitting-office-desk-holding-pen-while-coding-developing-concept-illustration_270158-427.jpg?w=740">
 <h3 align="justify">I'am Web developer & IOT Enthusiast from Indonesia</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://wwww.linkedin.com/rahul-kurniawan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="rahul-kurniawan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rahul-kurniawan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"alt="rahul-kurniawan" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC6FHTrTe6Cu_eH1RreMfYFQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rahul kurniawan" height="30" width="40" /></a>
 </p>
 
